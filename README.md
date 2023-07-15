@@ -23,7 +23,7 @@ The Professional Web Scraper is a Python-based data scraping tool designed to ex
 2. Install Dependencies: Ensure you have Python and pip installed on your system. Then, navigate to the project directory and install the required dependencies:
    ```
    cd Professional-Web-Scraper
-   pip install -r packages.txt
+   pip install scrapy
    ```
 
 3. Run the Scraper: To start scraping data from "https://books.toscrape.com/", run the following command:
