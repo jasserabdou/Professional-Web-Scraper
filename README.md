@@ -35,7 +35,9 @@ The Professional Web Scraper is a Python-based data scraping tool designed to ex
    - CSV File: "books.csv"
    - JSON File: "books.json"
    - Database: "books.db"
-
+  
+  ## Simple System Design
+![Web scraper Diagram](https://github.com/jasserabdou/Professional-Web-Scraper/assets/139123140/85990f63-879b-48d8-a00c-06dc91761494)
 
 ## Disclaimer
 
