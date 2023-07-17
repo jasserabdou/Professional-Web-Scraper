@@ -1,12 +1,38 @@
-# Ignore compiled Python files
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Compiled Python files
 *.pyc
+*.pyo
 
-# Ignore log files
-*.log
-
-# Ignore the virtual environment folder
+# Virtual environment
 venv/
+env/
+*.env
+/.env.*
 
-
-
-
+# Editor / IDE specific
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+*.sublime-project
+*.sublime-workspace
+*.swo
+*.tmproj
+Thumbs.db
+.DS_Store
