@@ -17,7 +17,7 @@ The Professional Web Scraper is a Python-based data scraping tool designed to ex
 
 1. Clone the repository: Start by cloning the "Professional Web Scraper" repository from GitHub using the following command:
    ```
-   git clone https://github.com/your_username/Professional-Web-Scraper.git
+   git clone https://github.com/jasserabdou/Professional-Web-Scraper.git
    ```
 
 2. Install Dependencies: Ensure you have Python and pip installed on your system. Then, navigate to the project directory and install the required dependencies:
